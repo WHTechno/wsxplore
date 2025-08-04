@@ -1,0 +1,47 @@
+[
+  {
+    "chainId": "oro_1336-1",
+    "chainName": "KiiChain Testnet",
+    "rpc": "https://rpc.uno.sentry.testnet.v3.kiivalidator.com",
+    "rest": "https://lcd.uno.sentry.testnet.v3.kiivalidator.com",
+    "logo": "https://pbs.twimg.com/profile_images/1800553180083666944/zZe128CW.jpg"
+  },
+  {
+    "chainId": "lumera-testnet-2",
+    "chainName": "Lumera Testnet",
+    "rpc": "https://lumera-testnet-rpc.polkachu.com",
+    "rest": "https://lcd.testnet.lumera.io",
+    "logo": "https://pbs.twimg.com/profile_images/1914464060265127936/z2ONvvpp.png"
+  },
+  {
+    "chainId": "symphony-testnet-4",
+    "chainName": "Symphony Testnet",
+    "rpc": "https://rpc-symphonyd.onenov.xyz",
+    "rest": "https://api-symphonyd.onenov.xyz",
+    "logo": "https://pbs.twimg.com/profile_images/1896255605909725184/rC9pD5EQ.jpg"
+  },
+  {
+  "chainId": "aeneid",
+  "chainName": "Story Aeneid Testnet",
+  "rpc": "https://rpc-t.story.nodestake.org",
+  "rest": "https://api-t.story.nodestake.org",
+  "grpc": "grpc.story-t.nodestake.org:443",
+  "evmRpc": "https://evmrpc-t.story.nodestake.org",
+  "logo": "https://pbs.twimg.com/profile_images/1820303986349805569/MKfPfLtz.jpg",
+  "type": "evm"
+  },
+  {
+    "chainId": "empe-testnet-2",
+    "chainName": "Empeiria Testnet",
+    "rpc": "https://empe-rpc.onenov.xyz",
+    "rest": "https://empe-api.onenov.xyz",
+    "logo": "https://pbs.twimg.com/profile_images/1887069794798632960/IvxbLJcg.jpg"
+  },
+  {
+    "chainId": "chiado_10010-1",
+    "chainName": "Warden Testnet",
+    "rpc": "https://warden-testnet-rpc.itrocket.net",
+    "rest": "https://warden-testnet-api.itrocket.net",
+    "logo": "https://pbs.twimg.com/profile_images/1904848026742484992/nO3RP237.jpg"
+  }
+]

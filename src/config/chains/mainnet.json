@@ -1,0 +1,51 @@
+[
+  {
+    "chainId": "axone-1",
+    "chainName": "Axone Mainnet",
+    "rpc": "https://axone-rpc.nodesync.top",
+    "rest": "https://axone-api.nodesync.top",
+    "logo": "https://pbs.twimg.com/profile_images/1841523650043772928/EeZIYE7B.jpg"
+  },
+  {
+    "chainId": "blockx_19191-1",
+    "chainName": "BlockX",
+    "rpc": "https://rpc.blockxnet.com",
+    "rest": "https://api.blockxnet.com",
+    "logo": "https://pbs.twimg.com/profile_images/1571914336288776193/HmxJDHvF.jpg"
+  },
+  {
+    "chainId": "uptick_117-1",
+    "chainName": "uptick-mainnet",
+    "rpc": "https://rpc-uptick.onenov.xyz",
+    "rest": "https://api-uptick.onenov.xyz",
+    "logo": "https://pbs.twimg.com/profile_images/1689125621308551173/Tvf1kL3d.jpg"
+  },
+  {
+    "chainId": "cosmoshub-4",
+    "chainName": "Cosmos Hub",
+    "rpc": "https://cosmos-rpc.polkachu.com",
+    "rest": "https://cosmos-api.polkachu.com",
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png"
+  },
+  {
+    "chainId": "osmosis-1",
+    "chainName": "Osmosis",
+    "rpc": "https://osmosis-rpc.polkachu.com",
+    "rest": "https://osmosis-api.polkachu.com",
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png"
+  },
+  {
+    "chainId": "axelar-dojo-1",
+    "chainName": "Axelar",
+    "rpc": "https://axelar-rpc.polkachu.com",
+    "rest": "https://axelar-api.polkachu.com",
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.png"
+  },
+  {
+    "chainId": "juno-1",
+    "chainName": "Juno",
+    "rpc": "https://juno-rpc.polkachu.com",
+    "rest": "https://juno-api.polkachu.com",
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.png"
+  }
+]
